@@ -1,0 +1,48 @@
+
+
+Introduction
+
+As interests and understanding of blockchain technology expand in mind and market so do consortiums, collectives, think tanks, working groups and alliances. While the establishment of various productive technology commons within a capitalist system continue- the shortcomings of duplicated efforts, siloed research, misaligned capital and the often dissident tension between Open Source and Intellectual Property create undue stress on managing collective effort.        
+The aim of this paper topic is to explore how Curation Markets: the combination of Non-Fungible-Tokens (NFTs) and Token Bonding Curves (TBCs)) could create a tokenised attribution model to incentivise cross-collaboration and share the risks and rewards through distributed collective ownership for Commons like RWoT to more effectively coordinate and earn from value co-created around shared goals. 
+
+Heather Vescent’s previous RWoT Paper: Towards Sustainable Technology Commons articulates the problem of attribution, both to the individual and the Commons...                    
+
+‘As the technology developed in commons is more broadly adopted, clear attribution to both the individuals and the community itself is important to assert. There are recent examples of companies failing to mention the commons when presenting corporate innovations to the marketplace. This is taking credit for value that others have contributed through the commons.
+
+Several technology commons projects discussed at RWoT are supported by government funding. Government agencies do not, cannot and should not receive any direct upsides to the success of the commons and as need to leverage the success in other ways to ensure that the commons thrive. Additionally, these Government R&D programs if not provided attribution and associated visibility to their higher ups (i.e. Congressional committees that determine Agency funding lines) result in a reduction of funding available in the future.’    
+
+Solution at a Glance:
+
+The core, functional components of curation markets involve:
+A token that can be minted at any time (continuous) according to a price set by the smart contract.
+This price gets more expensive as more tokens are in circulation.
+The amount paid for the token is kept in a communal deposit.
+At any point in time, a token can be withdrawn (“burned”) from the active supply, and a proportional part of the communal deposit can be taken with.
+The tokens are used to bond it to curators per sub-topic, who then curate information with their proportional backing.
+
+
+
+For example:
+Assume that RWoT has an associated curation market. Its users can mint and coordinate around a token that is used to curate new workshop topics (in the sub-topic #workshops).
+
+A simple, curation signal would be as follows:
+
+ “In the topic, #RWoT.workshops, curator 0x42b… has backed with their tokens, to include ‘Zero Knowledge Proof’ in the upcoming event.
+Their backing amounts to 80%. There are 100 #RWoT tokens overall backed to curators in the #RWoT.workshops topic, and curator 0x42b has 80 tokens backed in the sub-topic.”
+
+These signals can be interpreted by applications to display this information in different ways like how Reddit interprets upvotes and their own algorithm ranks it accordingly.
+
+ 
+Beneficiaries:
+Optionally, curation markets enable an associated beneficiary who benefits from the minting process. This can be useful to the RWoT community if a specific 3rd party, is wanted to develop software for the associated topic.
+
+For example, if W3C had this model, when tokens are minted, a proportion is also given to The W3C Foundation. They can then use these tokens to curate information in the W3C community, but also then sell these tokens to get a proportion of the communal deposit, and thus it ends up as a funding model.
+
+
+More to Explore:
+
+ There are many exciting use cases emerging from Curation Markets. How can RWoT and SSI community as a whole begin to test these networks among our own Ad-hoc Technology R&D working group structure? Could a curation market model built around our group result in more sustainable and scalable governance and financing for public working groups and cooperative events? 
+
+
+Library of Source Links
+or scan QR code
